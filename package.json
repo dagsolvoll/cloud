@@ -1,2 +1,22 @@
 {
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "name": "cloud",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagsolvoll/cloud.git"
+  },
+  "author": "Dag Solvoll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagsolvoll/cloud/issues"
+  },
+  "homepage": "https://github.com/dagsolvoll/cloud#readme"
 }
