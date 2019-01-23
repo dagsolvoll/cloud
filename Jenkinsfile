@@ -2,7 +2,7 @@ pipeline {
     agent {
           docker {
                  image 'maven:3.3.3'
-                 args '-u root:sudo'
+                 args '-u root'
                  } }
     stages {
         stage('build') {
